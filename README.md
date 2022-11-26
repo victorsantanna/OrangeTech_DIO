@@ -28,6 +28,11 @@ O Orange tech + é um projeto para você que deseja aprender do zero desenvolvim
   8. Dominando o protocolo HTTP e integrando com a POKEAPI
 
 > Dominando Algoritmos Básicos com Desafios de Código Javascript
+  1. DESAFIO: SOMANDO MÚLTIPLOS
+  2. DESAFIO: FIZZBUZZ
+  3. DESAFIO: UMA CHAMADA RECURSIVA
+  4. DESAFIO: OS NÚMEROS SÃO IGUAIS
+  5. DESAFIO: BUSCA SEQUENCIAL
 
 > Começando na Biblioteca React
 
