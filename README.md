@@ -5,12 +5,19 @@
 O Orange tech + é um projeto para você que deseja aprender do zero desenvolvimento front-end e back-end e tem o propósito de se preparar de verdade para as melhores vagas do mercado de tecnologia. O primeiro bootcamp do programa será uma trilha gratuita lançada pelo Inter, em parceria com a DIO, que vai abordar desde o princípio as tecnologias JavaScript, HTML, CSS, Typescript e React. 
 <br>
 > Prepare-se Para a Jornada (Onboarding)
+```
   1. Boas-Vindas ao Orange Tech +
+  
   2. Conheça as Oportunidades da DIO
+  
   3. Seja Protagonista Neste Bootcamp
+  
   4. Introdução ao Desenvolvimento Moderno de SoftWare
+  
   5. Mentoria(live)
 
+```
+  
 > Princípios de Desenvolvimento de Software
   1. Introdução à programação e pensamento computacional
   2. introdução ao Git e ao GitHub
